@@ -1,0 +1,74 @@
+[
+  {
+    "class_name": "友情链接",
+    "class_desc": "那些人，那些事",
+    "link_list": [
+      {
+        "name": "不肉",
+        "link": "http://breakon.top/",
+        "avatar": "",
+        "descr": ""
+      },
+    ]
+  },
+  {
+    "class_name": "网站",
+    "class_desc": "值得看一看",
+    "link_list": [
+      {
+        "name": "Git添加代理",
+        "link": "https://www.dreamlove.top/3be58dac.html",
+        "avatar": "http://qiniu.dreamlove.top/202304041900185.png",
+        "descr": "让github克隆的速度增快"
+      },
+      {
+        "name": "数学表达式",
+        "link": "https://math.dreamlove.top/",
+        "avatar": "http://qiniu.dreamlove.top/202304041900187.png",
+        "descr": "a/b要怎么表示?"
+      },
+      {
+        "name": "regulex",
+        "link": "https://regulex.dreamlove.top/",
+        "avatar": "http://qiniu.dreamlove.top/202304041900189.ico",
+        "descr": "正则表达式以图演示"
+      },
+      {
+        "name": "音乐解锁",
+        "link": "https://unlock.dreamlove.top/",
+        "avatar": "http://qiniu.dreamlove.top/202304041900190.png",
+        "descr": "ncm,qmc, mflac, mgg,kgm,xm,kwm的格式解锁"
+      },
+      {
+        "name": "机场",
+        "link": "https://www.dreamlove.top/ebe3cda6.html",
+        "avatar": "http://qiniu.dreamlove.top/202304041900191.jpg",
+        "descr": "飞啊飞啊~"
+      },
+      {
+        "name": "图标库网站",
+        "link": "https://www.dreamlove.top/1e714f22.html",
+        "avatar": "http://qiniu.dreamlove.top/202304041900186.png",
+        "descr": "汇集优秀的图标,插画等"
+      }
+    ]
+  },
+  {
+    "class_name": "工具",
+    "class_desc": "值得用一用",
+    "link_list": [
+      {
+        "name": "短链接",
+        "link": "https://omgl.xyz/",
+        "avatar": "http://qiniu.dreamlove.top/202304061145791.png",
+        "descr": "缩短链接"
+      },
+      {
+        "name": "流量刷子",
+        "link": "https://brush.omgl.xyz/",
+        "avatar": "https://q.qlogo.cn/headimg_dl?dst_uin=2248186422&spec=640",
+        "descr": "你的流量可能需要'刷一刷'"
+      }
+    ]
+  }
+]

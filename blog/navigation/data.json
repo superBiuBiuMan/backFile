@@ -1,0 +1,230 @@
+[
+  {
+    "class_name": "友情链接",
+    "class_desc": "那些人，那些事",
+    "link_list": [
+      {
+        "name": "不肉",
+        "link": "http://breakon.top/",
+        "avatar": "",
+        "descr": ""
+      }
+    ]
+  },
+  {
+	"class_name": "漫画",
+    "class_desc": "从小看到大",
+    "link_list": [
+      {
+        "name": "COLAMANHUA",
+        "link": "https://www.colamanhua.com/",
+        "avatar": "https://www.colamanhua.com/favicon.png",
+        "descr": "斗罗大陆 绝世唐门 斗破苍穹 星武神诀 百炼成神 COLAMANHUA"
+      },
+      {
+        "name": "嗨皮漫画(需要魔法)",
+        "link": "https://m.happymh.com/",
+        "avatar": "",
+        "descr": "嗨皮"
+      },
+      {
+        "name": "funbe（韩国的一家漫画）",
+        "link": "https://funbe232.com/",
+        "avatar": "https://funbe232.com/img/favicon.png",
+        "descr": "펀비(Funbe),네이버웹툰,다음웹툰,카카오웹툰,레진웹툰,웹툰미리보기,유료만화,무료만화,망가,만화미리보기,레진코믹스,무료웹툰,유료웹툰"
+      },
+      {
+        "name": "MahoMangaDownloader(漫画下载)",
+        "link": "https://blog.zmcx16.moe/search/label/MahoMangaDownloader",
+        "avatar": "https://blog.zmcx16.moe/favicon.ico",
+        "descr": "漫画下载"
+      },
+      {
+        "name": "漫画 - 次元狗",
+        "link": "https://www.acgndog.com/category/rec-comic",
+        "avatar": "https://www.acgndog.com/wp-content/uploads/2017/11/439c8112e53379d73724e80c93eccd0c-192x192.png",
+        "descr": "次元狗"
+      },
+      {
+        "name": "無限動漫 - 最新熱門免費動畫漫畫分享觀看",
+        "link": "https://www.comicabc.com/",
+        "avatar": "https://www.comicabc.com/favicon-32x32.png",
+        "descr": "新熱門連載漫畫,這裡擁有最新最熱門的無限動漫,一起分享下載,綫上觀看,在綫討論,感受動漫狂熱!"
+      },
+      {
+        "name": "動漫狂 - 免費動畫漫畫分享社群",
+        "link": "https://www.cartoonmad.com/",
+        "avatar": "",
+        "descr": "動漫狂 - 免費動畫漫畫分享社群 ! cartoonmad - 這裡是蘊藏豐富卡通動漫畫的動漫狂,免費卡通,動漫畫,分享下載與在線上觀看 "
+      },
+      {
+        "name": "Tachiyomi",
+        "link": "https://tachiyomi.org/",
+        "avatar": "",
+        "descr": "Free and open source manga reader for Android"
+      },
+      {
+        "name": "漫画图片-鹿次元",
+        "link": "https://luacg.com/category/manhuatupian/",
+        "avatar": "",
+        "descr": "鹿次元LuACG一个全新的动漫导航网站"
+      },
+      {
+        "name": "来漫画 - 斗破苍穹漫画,斗罗大陆漫画,我的英雄学院,海贼王,推荐爱漫画者上来漫画在线漫画网",
+        "link": "https://www.laimanhua.net/",
+        "avatar": "",
+        "descr": "来漫画 - 斗破苍穹漫画,斗罗大陆漫画,我的英雄学院,海贼王,推荐爱漫画者上来漫画在线漫画网"
+      },
+      {
+        "name": "包子漫画",
+        "link": "https://cn.baozimh.com/",
+        "avatar": "https://cn.baozimh.com/apple-icon-144x144.png",
+        "descr": "包子漫画"
+      }
+    ]
+  },
+  {
+    "class_name": "闲聊论坛",
+    "class_desc": "无聊用一用，嘎嘎",
+    "link_list": [
+      {
+        "name": "V2EX",
+        "link": "https://www.v2ex.com/",
+        "avatar": "https://www.v2ex.com/static/icon-192.png",
+        "descr": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。"
+      },
+      {
+        "name": "全球主机交流论坛",
+        "link": "https://hostloc.com/",
+        "avatar": "https://hostloc.com/static/image/common/logo.png",
+        "descr": "美国服务器主机交流"
+      },
+      {
+        "name": "老铁线报网",
+        "link": "https://laotie8.com/",
+        "avatar": "https://laotie8.com/wp-content/uploads/2023/01/logo-3-1.png",
+        "descr": "赚客吧,薅羊毛,赚客之家论坛,微信红包活动,有奖活动,抢抢网,网赚论坛,线报屋,线报,线报网,赚客,赚客大家谈,赚客之家,活动线报,兼职,赚钱,项目,羊毛"
+      },
+      {
+        "name": "DOSPY论坛 诺亚方舟号",
+        "link": "https://www.dospy.wang/portal.php",
+        "avatar": "https://www.dospy.wang/template/quater_3_zuk/src/logo.png",
+        "descr": "DOSPY论坛 诺亚方舟号 - 塞班论坛|固件下载|hmd诺基亚安卓|智能手机|数码科技"
+      },
+      {
+        "name": "小众软件官方论坛",
+        "link": "https://meta.appinn.net/",
+        "avatar": "https://meta-cdn1.appinn.com/uploads/default/optimized/3X/9/5/950b4d4185231e3282df8acc673f5aa0f66a022c_2_180x180.png",
+        "descr": "讨论一些有趣的话题，你也可以来开分版"
+      },
+      {
+        "name": "夢遊電玩論壇",
+        "link": "https://www.game735.com/forum.php",
+        "avatar": "https://www.game735.com/favicon.ico",
+        "descr": "辅助嘎嘎多,原神等的必备讨论"
+      }
+    ]
+  },
+  {
+	"class_name": "导航中的导航",
+    "class_desc": "导航里面的导航",
+    "link_list": [
+      {
+        "name": "AI工具集导航",
+        "link": "https://ai-bot.cn/",
+        "avatar": "https://ai-bot.cn/wp-content/uploads/2023/03/ai-bot-square-logo.png",
+        "descr": "AI工具集,AI工具集导航,AI工具集导航官网,AI工具导航,AI工具大全,AI网站大全,AI工具集导航,AI工具集官网,AI软件大全,AI工具集合,AI工具集合网,AI工具库,AI工具箱,AI工具箱导航"
+      },
+      {
+        "name": "LION导航 | 专业的云服务导航网站",
+        "link": "https://dh.kejilion.pro/",
+        "avatar": "https://dh.kejilion.tk/wp-content/uploads/2022/07/kejilion.jpg",
+        "descr": "科技lion打造的专业的云服务器导航网站"
+      },
+      {
+        "name": "万人迷吧-优质云盘资源导航站",
+        "link": "https://www.wanrenmi8.com/cn/index.html",
+        "avatar": "https://www.wanrenmi8.com/assets/images/1.png",
+        "descr": "万人迷吧 - 一家提供云盘搜索引擎、云盘资源论坛、 阿盘云盘、蓝奏云、百度网盘、永硕e盘资源的导航站"
+      },
+      {
+        "name": "电报应用目录",
+        "link": "https://cn.telegram-store.com/",
+        "avatar": "https://cn.telegram-store.com/wp-content/uploads/2016/08/cropped-Logo-192x192.png",
+        "descr": "電報應用目錄：頻道、機器人、群組"
+      },
+      {
+        "name": "电报频道的统计",
+        "link": "https://telemetr.io/uk/channels",
+        "avatar": "https://telemetr.io/favicon.ico",
+        "descr": "电报频道的统计"
+      },
+      {
+        "name": "真实IP查询",
+        "link": "https://www.ipaddress.com/",
+        "avatar": "https://s.ipaddress.com/icon/favicon-192.png",
+        "descr": "What Is My IP Address? Free IP Lookup"
+      },
+      {
+        "name": "电报导航_电报频道群组机器人",
+        "link": "https://www.dianbao.la/",
+        "avatar": "https://www.dianbao.la/zb_users/theme/hnysweb/style/logo.png",
+        "descr": "电报导航（dianbao.la）是一个Telegram群组分享平台，为广大电报用户提供各种电报群组/电报频道/电报机器人导航服务。"
+      },
+      {
+        "name": "神秘的热心网友 - 收集免费实用有趣的东西，做最好的资源导航",
+        "link": "https://imyshare.com",
+        "avatar": "https://imyshare.com/static/img/logo.png",
+        "descr": "iMyShare,网址导航,资源分享,资源搜索,网盘搜索,免费视频网站,实用软件,软件资源,实用工具,下载工具,视频下载,免费音乐下载,电子书下载网站,办公素材,设计素材,有趣的网站,免费漫画网站,免费动漫"
+      },
+      {
+        "name": "集云数据导航站",
+        "link": "https://www.acloudmerge.com/",
+        "avatar": "https://www.acloudmerge.com/favicon.png",
+        "descr": "集云数据导航站,漫画和动漫"
+      }
+    ]
+  },
+  {
+	"class_name": "软件资源",
+    "class_desc": "大部分都是crack资源网站",
+    "link_list": [
+      {
+        "name": "爱资源-专注软件资源分享",
+        "link": "https://www.iwyu.com/",
+        "avatar": "https://www.iwyu.com/wp-content/uploads/2023/03/1679763611-9fb816577d2dcc2.png",
+        "descr": "爱资源,绿色软件,破解软件,软件博客,adobe,便携软件,电脑软件,系统,Win10,Win11,PE,软件资源"
+      },
+      {
+        "name": "宝塔纯净版",
+        "link": "https://www.hostcli.com/",
+        "avatar": "https://www.hostcli.com/",
+        "descr": "宝塔面板纯净版"
+      },
+      {
+        "name": "IEDA屠龙刀教程",
+        "link": "https://www.lzskyline.com/index.php/archives/157/",
+        "avatar": "https://www.lzskyline.com/favicon.ico",
+        "descr": "Jetbrain全家桶通杀完美破解方案"
+      },
+      {
+        "name": "马可菠萝 - 分享你喜欢的MAC应用",
+        "link": "https://www.macbl.com/",
+        "avatar": "https://static.skyandroid.cn/images/favicon.ico",
+        "descr": "提供最全面的Mac软件免费下载"
+      }
+    ]
+  },
+  {
+	"class_name": "Very People Victory",
+    "class_desc": "首个单词是什么?",
+    "link_list": [
+      {
+        "name": "XSUS",
+        "link": "http://wz.xsus.link/",
+        "avatar": "",
+        "descr": "还行,速度很快"
+      }
+    ]
+  }
+]
